@@ -10,7 +10,7 @@ st.title("4G宏站工具主页")
 st.markdown("---")
 
 tool_name = st.radio(
-    "请选择工具",
+    "请选择数据制作工具", 
     ["4g宏站开站", "4g宏站扩容"],
     horizontal=True,
 )
